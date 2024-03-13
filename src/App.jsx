@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import imagen from './assets/p1.jpg'
-import imagen2 from './assets/p2.jpg'
+import imagen2 from '../assets/p2.jpg'
 import { AboutMe } from './components/AboutMe'
 import { Experience } from './components/Experience'
 
