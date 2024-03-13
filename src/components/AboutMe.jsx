@@ -1,4 +1,4 @@
-import me from '../public/assets/me.jpeg'
+import me from '../../public/assets/me.JPEG'
 
 export const AboutMe = () => {
   return (
