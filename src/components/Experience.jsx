@@ -6,6 +6,7 @@ export const Experience = () => {
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,96L80,128C160,160,320,224,480,218.7C640,213,800,139,960,117.3C1120,96,1280,128,1360,144L1440,160L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
     <div className="experience row w-100">
       <h1>Experience</h1>
+      <a href="www.linkedin.com/in/alicia-joselyn-castillo-juarez-05b2aa183">LinkedIn</a>
       <div className="card col-12 col-sm-6 mx-auto">
         <div className="card-body">
           <h5 className="card-title">Javascript developer</h5>
